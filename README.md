@@ -2,8 +2,10 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 </div>
 
-### Всем привет! 👋 Меня зовут Алена!  
-## Я начинающий веб-разработчик.  
+### 
+Всем привет! Меня зовут Алена!
+##
+Я начинающий веб-разработчик.
 
 В 35 лет решила освоить новую для себя проффесию, так как не смогла в декрете сидеть ничего не делая и не развиваясь.  
 Захотела иметь возможность развиваться и зарабатывать, совмещая это с уходом за ребенком.  
@@ -11,7 +13,7 @@
 посмотреть в моих репозиториях. 
 
 IT-сфера привлекла еще тем, что это область в которой можно развиваться бесконечно, ведь технологии не стоят на месте.  
-Всегда есть, куда рости!  
+Всегда есть, куда расти!  
 
 После завершения курса по веб-разработке в моем активе:
 - Умение верстать проекты различной сложности по макету Figma с использованием методологии БЭМ.
@@ -27,4 +29,12 @@ IT-сфера привлекла еще тем, что это область в 
 
 🚀 Мой стэк:
 
-HTML CSS JS React Vue Node.js Express.js MongoDB Figma Git
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
