@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 
-### Всем привет! Меня зовут Алена!  
+---
 
 ## Я начинающий веб-разработчик.  
 
@@ -26,7 +26,11 @@ IT-сфера привлекла еще тем, что это область в 
 - Настройка и запуск сервера, доставка кода на сервер.
 - Продвинутая работа с Git через командную строку.
 
+---
+
 🚀 Мой стэк:
+
+---
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,3 +42,11 @@ IT-сфера привлекла еще тем, что это область в 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+Связаться со мной можно так -->
+
+- :calling: +7 916 674 10 55
+
+- :email: akuchevskaya@bk.ru
+
+- :woman_technologist: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
