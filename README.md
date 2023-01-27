@@ -49,4 +49,4 @@ IT-сфера привлекла еще тем, что это область в 
 
 - :email: akuchevskaya@bk.ru
 
-- :woman_technologist: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :woman_technologist: [Резюме на HH](https://hh.ru/resume/80d39805ff0b85bcb90039ed1f7a4f654f614f)
